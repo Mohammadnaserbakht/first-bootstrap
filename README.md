@@ -2,7 +2,7 @@
 first bootstrap
 
 
-- [Demo Project]([https://pouria-farahani-developer.github.io/Accordion-Menu-By-React/](https://mohammadnaserbakht.github.io/first-bootstrap/index2-boot1.html))
+- [Demo Project](https://mohammadnaserbakht.github.io/first-bootstrap/index2-boot1.html)
 
 - Developed by mohammad naserbakht
 
